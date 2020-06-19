@@ -1,0 +1,36 @@
+{
+  "name": "abel-pages",
+  "version": "0.1.0",
+  "description": "static web app workflow",
+  "keywords": [
+    "abel-pages",
+    "zce"
+  ],
+  "homepage": "https://github.com/abel/abel-pages#readme",
+  "bugs": {
+    "url": "https://github.com/abel/abel-pages/issues"
+  },
+  "license": "MIT",
+  "author": "Abel <qq1104031080@outlook.com>",
+  "files": [
+    "lib"
+  ],
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abel/abel-pages.git"
+  },
+  "scripts": {
+    "lint": "standard --fix"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "standard": "^13.1.0"
+  },
+  "engines": {
+    "node": ">=6"
+  }
+}
